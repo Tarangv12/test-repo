@@ -1,2 +1,2 @@
-print("heloo sir good evening!!!!!!")
-print("Welcome to the our site!!!!")
+print("hello sir good morning !!!!!!")
+print("Welcome to the our first site!!!!")
